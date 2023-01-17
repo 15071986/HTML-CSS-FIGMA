@@ -1,0 +1,90 @@
+.form {
+border: 4px solid rgb(240, 12, 12);
+width: 1500px;
+height: 730px;
+padding-bottom: 2px;
+}
+
+.form_1 {
+border: 4px solid rgb(43, 24, 211);
+width: 1200px;
+height: 727px;
+margin-left: 140px;
+}
+.form_2 {
+border: 4px solid rgb(19, 216, 62);
+height: 60px;
+margin-top: 30px;
+}
+
+.form_3 {
+    border: 4px solid rgb(14, 204, 230);
+    width: 600px;
+    height: 300px;
+    margin-top: 150px;
+}
+
+.form_a {
+    border: 4px solid rgb(196, 19, 19);
+width: 1200px;
+height: 600px;
+margin-left: 140px;
+margin-top: 50px;
+}
+.form_b {
+    border: 4px solid rgb(247, 231, 6);
+    width: 1196px;
+    height: 500px;
+    margin-top: 70px;
+}
+
+.form_c {
+    border: 4px solid rgb(6, 199, 247);
+    width: 370px;
+    height: 430px;
+    margin-top: 45px;
+}
+
+.form_X{
+    border: 4px solid rgb(247, 6, 78);
+    width: 1200px;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 140px;
+}
+
+.form_Y {
+    border: 4px solid rgb(240, 12, 12);
+    width: 1500px;
+    height: 630px;
+    padding-bottom: 2px;
+    margin-top: 25px;
+    }
+.form_Y1{
+    border: 4px solid rgb(247, 6, 78);
+    width: 1200px;
+    height: 290px;
+    margin-top: 25px;
+    margin-left: 140px;
+}
+
+.form_Y2 {
+border: 4px solid rgb(247, 6, 78);
+    width: 400px;
+    height: 200px;
+    margin-top: 50px;
+}
+
+.form_Y3{
+    border: 4px solid rgb(247, 6, 78);
+    width: 1200px;
+    height: 250px;
+    margin-top: 120px;
+}
+
+.form_Y4{
+    border: 4px solid rgb(247, 6, 78);
+    width: 1200px;
+    height: 30px;
+    margin-top: 130px;
+}
